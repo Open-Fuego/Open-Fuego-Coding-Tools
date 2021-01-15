@@ -1,4 +1,4 @@
-## Pitt Fuego Teaching Best Practices
+## Open Fuego Teaching Best Practices
 
 **Work with Code –** most all of the code your students will need to write has already been written. Encourage students to work with code, not write it. (Disagree? See our final entry)
 
@@ -43,7 +43,7 @@ Students will work with code to figure out what they want to write or what they 
 
 **-Multimodal Communication Document**
 
-Students will use the tools in Pitt Fuego to make a mobile-ready multimodal communication document. (See Pitt Fuego or any of our other Presentation Methods)
+Students will use the tools in Open Fuego to make a mobile-ready multimodal communication document. (See Pitt Fuego or any of our other Presentation Methods)
 
 
 

@@ -1,4 +1,4 @@
-# Pitt Fuego FAQ
+# Open Fuego FAQ
 
 **Q: How do I get started teaching students to work with code?**
 
@@ -14,7 +14,7 @@ A: They are embedded in the code. Teach students to use a code editor to open th
 
 **Q: Can my students really figure out how to work with code?**
 
-A: If you and your students can’t figure out Pitt Fuego, then WE have a problem. Please let us know. 
+A: If you and your students can’t figure out Open Fuego, then WE have a problem. Please let us know. 
 
 **Q: How do I assess this?**
 
@@ -22,7 +22,7 @@ A: Set expectations: demand students work with code to meet specific requirement
 
 **Q: What if a student already knows everything there is to know about .HTML and .CSS?**
 
-A:  No problem. Pitt Fuego is only a multimodal communication tool. While we can use the code to help us arrange, style, and circulate our content, we still need to invent content and connect with our audience. 
+A:  No problem. Open Fuego is only a multimodal communication tool. While we can use the code to help us arrange, style, and circulate our content, we still need to invent content and connect with our audience. 
 
 **Q: What is computational thinking?**
 
